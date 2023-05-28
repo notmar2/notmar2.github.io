@@ -110,7 +110,7 @@
             
                     $multiplier = isset($quantityArray[$i]) ? $quantityArray[$i] : 1;
             
-                    $tableContent .= "<tr><td>". $item1 . "</td><td> $" . number_format($item2 * $multiplier, 2) . "mxn</td></tr>";
+                    $tableContent .= "<tr><td>". $item1 . "</td><td> $" . number_format($item2 * (float)$multiplier, 2) . "mxn</td></tr>";
                 }
             
                 $tableContent .= '</table>';
