@@ -1,0 +1,24 @@
+Item,Quantity
+Arduino UNO board,1
+USB cable (Type A to Type B),1
+Breadboard,1
+Jumper wires,1
+LEDs,5
+Resistors (220 ohm 10K ohm),5
+Pushbuttons,2
+Potentiometer,1
+Temperature sensor (e.g. TMP36),1
+Light-dependent resistor (LDR),1
+Piezo buzzer,1
+Servo motor,1
+DC motor,1
+Motor driver module (e.g. L293D),1
+RGB LED,1
+Ultrasonic distance sensor,1
+Passive buzzer,1
+Micro servo,1
+LCD display (16x2 or 20x4),1
+I2C module for LCD (if required),1
+Ethernet shield (if network connectivity is needed),1
+Wi-Fi module (if wireless connectivity is needed),1
+Bluetooth module (if Bluetooth connectivity is needed),1
